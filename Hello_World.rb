@@ -1,1 +1,2 @@
-#Program will print to screen
+#Program will print to screen "Hello World"
+puts "Hello World"
